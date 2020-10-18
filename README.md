@@ -5,11 +5,11 @@ Home: https://github.com/JelteF/PyLaTeX
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pylatex-feedstock/blob/master/LICENSE.txt)
 
 Summary: A Python library for creating LaTeX files and snippets
 
-
+Documentation: https://jeltef.github.io/PyLaTeX
 
 Current build status
 ====================
