@@ -1,5 +1,5 @@
 {% set name = "PyLaTeX" %}
-{% set version = "1.4.1" %}
+{% set version = "1.4.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0]|lower }}/{{ name|lower }}/{{ name }}-{{ version }}.tar.gz
-  sha256: d3c12efb8b260771260443dce78d1e9089c09f9d0b92e6273dfca0bf5e7302fb
+  sha256: bb7b21bec57ecdba3f6f44c856ebebdf6549fd6e80661bd44fd5094236729242
 
 build:
   number: 0
